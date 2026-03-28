@@ -17,7 +17,7 @@
 
 <img align="right" src="https://res.cloudinary.com/dli21acxz/image/upload/v1774649105/developer_hd_xazkt3.gif" width="230">
 
-<h2>About Me</h2>
+### About Me
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Briefcase.png" width="20" align="absmiddle"> &nbsp; **5+ years** in **software engineering**, **UX/UI**, **IT audit** & **AI automation**
 
@@ -33,7 +33,7 @@
 
 ---
 
-<h2>What I Do</h2>
+### What I Do
 I design and build backend systems in Python. API architecture, database modeling, testing, and AI integration for production services.
 
 My day to day involves building APIs, writing tests, modeling data, and orchestrating LLM agents with AI frameworks.

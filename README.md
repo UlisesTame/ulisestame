@@ -19,7 +19,7 @@
 
 ### About Me
 
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Briefcase.png" width="20" align="absmiddle"> &nbsp; **Sr. Fullstack Developer & AI Engineer** with over 5+ years' experience building **Web Applications**, **AI Workflows** & **Software Solutions**
+💼 &nbsp; **Sr. Fullstack Developer & AI Engineer** with over 5+ years' experience building **Web Applications**, **AI Workflows** & **Software Solutions**
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="20" align="absmiddle"> &nbsp; **Python Backend Developer** specialized in **AI-powered systems**
 
@@ -114,6 +114,8 @@ Most of my work sits where backend meets AI, making sure LLM features work like 
 
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"/>
 <img src="https://img.shields.io/badge/TDD-2596BE?style=flat-square&logoColor=white" alt="TDD"/>
+<img src="https://img.shields.io/badge/BDD-2596BE?style=flat-square&logoColor=white" alt="BDD"/>
+<img src="https://img.shields.io/badge/E2E-2596BE?style=flat-square&logoColor=white" alt="E2E"/>
 
 </td>
 </tr>
